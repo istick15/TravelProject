@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "1",
+    "place_name": "Wat Pho Bang Kla",
+    "address": "256 Pracha Neramit, Bangkla, Bangkla, Cgachoengsao 24110",
+    "category": "Tourist Place",
+    "detail": "",
+    "time_open": "9.00",
+    "time_closed": "18.00",
+    "photo": ""
+  },
+  {
+    "_id": "2",
+    "place_name": "Kesorn Spa",
+    "address": "8/196 Pracha Neramit, Bangkla, Bangkla, Cgachoengsao 24110",
+    "category": "Spa",
+    "detail": "",
+    "time_open": "9.00",
+    "time_closed": "21.00",
+    "photo": ""
+  },
+  {
+    "_id": "3",
+    "place_name": "Neramit Hotel",
+    "address": "256 Pracha Neramit, Bangkla, Bangkla, Cgachoengsao 24110",
+    "category": "Hotel",
+    "detail": "",
+    "time_open": "7.00",
+    "time_closed": "21.00",
+    "photo": ""
+  },
+  {
+    "_id": "4",
+    "place_name": "Bang Kla Restaurant",
+    "address": "256 Pracha Neramit, Bangkla, Bangkla, Cgachoengsao 24110",
+    "category": "Restaurant",
+    "detail": "",
+    "time_open": "10.00",
+    "time_closed": "21.00",
+    "photo": ""
+  },
+  {
+    "_id": "5",
+    "place_name": "Wat Pho Hostel",
+    "address": "256 Pracha Neramit, Bangkla, Bangkla, Cgachoengsao 24110",
+    "category": "Hostel",
+    "detail": "",
+    "time_open": "9.00",
+    "time_closed": "22.00",
+    "photo": ""
+  },
+  {
+    "_id": "6",
+    "place_name": "Wat Sothon Wanaram",
+    "address": "256 Pracha Neramit, Bangkla, Bangkla, Cgachoengsao 24110",
+    "category": "Tourist Place",
+    "detail": "",
+    "time_open": "9.00",
+    "time_closed": "18.00",
+    "photo": ""
+  }
+]

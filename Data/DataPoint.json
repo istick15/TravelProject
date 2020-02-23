@@ -1,0 +1,116 @@
+[
+  {
+    "_id": "1",
+    "data": {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "category": "Tourist",
+            "name": "Wat Pho Bang Kla"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [100.546875, 17.308687886770034]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "_id": "2",
+    "data": {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "category": "Hotel",
+            "name": "Neramit Hotel"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [101.865234375, 15.26298855]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "_id": "3",
+    "data": {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "category": "Hostel",
+            "name": "Wat Pho Hostel"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [100.5029296875, 13.944729974920167]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "_id": "4",
+    "data": {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "category": "Restaurant",
+            "name": "Bang Kla Restaurant"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [99.49218749999999, 13.923403897723347]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "_id": "5",
+    "data": {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "category": "Spa",
+            "name": "Kesorn Spa"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [99.68994140625, 15.262988555023204]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "_id": "6",
+    "data": {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "category": "Tourist",
+            "name": "Wat Sothon Wanaram"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [118.47656249999999, 54.77534585936447]
+          }
+        }
+      ]
+    }
+  }
+]
